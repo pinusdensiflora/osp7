@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import pprint
 import requests
 
